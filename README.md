@@ -18,7 +18,7 @@ I also secretly have a passion for cycling and video games.
 
 ⚒️ **Specific Tools**
 
-- [UAE Currency Rates Crawler](https://github.com/vkostyanetsky/UAECurrencyRatesCrawler) — several apps to crawl currency exchange rates on the Central Bank of the United Arab Emirates
+- [UAE Currency Rates Crawler](https://github.com/vkostyanetsky/UAECurrencyRatesCrawler) — a few scripts to effectively crawl currency exchange rates on the Central Bank of the United Arab Emirates
 
 💬 **Blogging**
 
