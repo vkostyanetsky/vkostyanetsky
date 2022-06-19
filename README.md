@@ -10,25 +10,25 @@ I'm currently working on FirstBIT ERP. It is a management system (sales, purchas
 
 👯 Routine Automaion
 
-- [https://github.com/vkostyanetsky/FoodDiary](FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
-- [https://github.com/vkostyanetsky/Organizer](Organizer) — a CLI tool to manage my tasks and duties
-- [https://github.com/vkostyanetsky/AIMPPlaylistsConvertor](AIMP Playlists Convertor)
-- [https://github.com/vkostyanetsky/RCloneAbuser](RClone Abuser)
-- [https://github.com/vkostyanetsky/ServiceLauncher](Service Launcher)
+- [FoodDiary](https://github.com/vkostyanetsky/FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
+- [Organizer](https://github.com/vkostyanetsky/Organizer) — a CLI tool to manage my tasks and duties
+- [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor)
+- [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser)
+- [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher)
 
 🏢 1C:Enterprise
 
-- [https://github.com/vkostyanetsky/ScriptsFor1C](Scripts for 1C)
-- [https://github.com/vkostyanetsky/DataSizeConsole](DataSizeConsole)
-- [https://github.com/vkostyanetsky/AuditLogSettings](AuditLogSettings)
-- [https://github.com/vkostyanetsky/ScriptsForMSSQLServer](ScriptsForMSSQLServer)
-- [https://github.com/vkostyanetsky/IsEmptyOrValueIsFilled](IsEmptyOrValueIsFilled)
+- [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C)
+- [DataSizeConsole](https://github.com/vkostyanetsky/DataSizeConsole)
+- [AuditLogSettings](https://github.com/vkostyanetsky/AuditLogSettings)
+- [ScriptsForMSSQLServer](https://github.com/vkostyanetsky/ScriptsForMSSQLServer)
+- [IsEmptyOrValueIsFilled](https://github.com/vkostyanetsky/IsEmptyOrValueIsFilled)
 
 ⚒️ Tools
 
-- [https://github.com/vkostyanetsky/UAECurrencyRatesCrawler](UAE Currency Rates Crawler) — several apps to crawl currency exchange rates on the Central Bank of the United Arab Emirates
+- [UAE Currency Rates Crawler](https://github.com/vkostyanetsky/UAECurrencyRatesCrawler) — several apps to crawl currency exchange rates on the Central Bank of the United Arab Emirates
 
 💬 Blogs
 
-- [https://github.com/vkostyanetsky/BlogEngineVue](BlogEngineVue)
-- [https://github.com/vkostyanetsky/BlogBuilder](BlogBuilder)
+- [BlogEngineVue](https://github.com/vkostyanetsky/BlogEngineVue)
+- [BlogBuilder](https://github.com/vkostyanetsky/BlogBuilder)
