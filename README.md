@@ -23,7 +23,7 @@ I also secretly have a passion for cycling and video games.
 💬 **Blogging**
 
 - [Blog Builder](https://github.com/vkostyanetsky/BlogBuilder) — the application I use to build my blogs (I have two of them — first in Russian, second in English)
-- [Blog Engine Vue](https://github.com/vkostyanetsky/BlogEngineVue) — the old engine I use for my blogs
+- [Blog Engine on Vue](https://github.com/vkostyanetsky/BlogEngineOnVue) — the old engine I use for my blogs (backend on PHP, fronted on Vue.js)
 
 🏢 **1C:Enterprise**
 
