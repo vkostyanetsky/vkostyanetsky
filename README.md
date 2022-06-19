@@ -27,7 +27,8 @@ I also secretly have a passion for cycling and video games.
 
 🏢 **1C:Enterprise**
 
-- [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) — scripts intended to maintain 1C:Enterprise infobases- [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) — scripts I frequently use to manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
+- [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) — scripts intended to maintain 1C:Enterprise infobases
+- [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) — scripts I frequently use to manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
 - [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) — a tool to calculate size of the data stored in an 1C:Enterprise infobase
 - [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) — a tool to easily manage settings of audit log mechanic in a 1C:Enterprise infobase
 - [Is Empty or Value Is Filled](https://github.com/vkostyanetsky/IsEmptyOrValueIsFilled) — a tool to compare productivty of two ways to find is a value empty or not
