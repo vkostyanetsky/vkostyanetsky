@@ -8,7 +8,7 @@ I also secretly have a passion for cycling and video games.
 
 ### Check out my projects
 
-⏰ **Routine Automation**
+⏰ **Everyday Tools**
 
 - [FoodDiary](https://github.com/vkostyanetsky/FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
 - [Organizer](https://github.com/vkostyanetsky/Organizer) — a CLI tool to manage my tasks and duties
@@ -16,11 +16,11 @@ I also secretly have a passion for cycling and video games.
 - [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — a CLI tool to backup a list of files and directories
 - [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — a CLI tool to start and stop lists of Windows services
 
-⚒️ **Tools**
+⚒️ **Specific Projects**
 
 - [UAE Currency Rates Crawler](https://github.com/vkostyanetsky/UAECurrencyRatesCrawler) — several apps to crawl currency exchange rates on the Central Bank of the United Arab Emirates
 
-💬 **Blogs**
+💬 **Blogging**
 
 - [Blog Builder](https://github.com/vkostyanetsky/BlogBuilder) — the application I use to build my blogs (I have two of them — first in Russian, second in English)
 - [Blog Engine Vue](https://github.com/vkostyanetsky/BlogEngineVue) — the old engine I use for my blogs.
