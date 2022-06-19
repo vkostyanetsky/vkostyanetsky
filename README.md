@@ -10,26 +10,25 @@ I'm currently working on FirstBIT ERP. It is a management system (sales, purchas
 
 👯 Routine Automaion
 
-- [FoodDiary](FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
-- [Organizer](Organizer) — a CLI tool to manage my tasks and duties
-- [AIMPPlaylistsConvertor](AIMP Playlists Convertor)
-- [RCloneAbuser](RClone Abuser)
-- [ServiceLauncher](Service Launcher)
+- [https://github.com/vkostyanetsky/FoodDiary](FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
+- [https://github.com/vkostyanetsky/Organizer](Organizer) — a CLI tool to manage my tasks and duties
+- [https://github.com/vkostyanetsky/AIMPPlaylistsConvertor](AIMP Playlists Convertor)
+- [https://github.com/vkostyanetsky/RCloneAbuser](RClone Abuser)
+- [https://github.com/vkostyanetsky/ServiceLauncher](Service Launcher)
 
 🏢 1C:Enterprise
 
-- [ScriptsFor1C](Scripts for 1C)
-- [DataSizeConsole](DataSizeConsole)
-- [AuditLogSettings](AuditLogSettings)
-- [ScriptsForMSSQLServer](ScriptsForMSSQLServer)
-- [IsEmptyOrValueIsFilled](IsEmptyOrValueIsFilled)
+- [https://github.com/vkostyanetsky/ScriptsFor1C](Scripts for 1C)
+- [https://github.com/vkostyanetsky/DataSizeConsole](DataSizeConsole)
+- [https://github.com/vkostyanetsky/AuditLogSettings](AuditLogSettings)
+- [https://github.com/vkostyanetsky/ScriptsForMSSQLServer](ScriptsForMSSQLServer)
+- [https://github.com/vkostyanetsky/IsEmptyOrValueIsFilled](IsEmptyOrValueIsFilled)
 
 ⚒️ Tools
 
-- [UAECurrencyRatesCrawler](UAE Currency Rates Crawler) — several apps to crawl currency exchange rates on the Central Bank of the United Arab Emirates
-- 
+- [https://github.com/vkostyanetsky/UAECurrencyRatesCrawler](UAE Currency Rates Crawler) — several apps to crawl currency exchange rates on the Central Bank of the United Arab Emirates
 
 💬 Blogs
 
-- [BlogEngineVue](BlogEngineVue)
-- [BlogBuilder](BlogBuilder)
+- [https://github.com/vkostyanetsky/BlogEngineVue](BlogEngineVue)
+- [https://github.com/vkostyanetsky/BlogBuilder](BlogBuilder)
