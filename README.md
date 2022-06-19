@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vlad — a business software developer, which specializes on 1C:Enterprise (I'm a certified 1C:Enterprise expert, to be certain) and experiments with everything else. A lot.
+I'm Vlad — a business software developer specializing in 1C:Enterprise (I'm a certified 1C:Enterprise expert, to be certain) and experimenting with everything else. A lot.
 
 Currently, I'm working on [FirstBIT ERP](https://firstbit.ae/). It is a company management system (sales, purchasing, production, human resources etc.) designed for the United Arab Emirates.
 
