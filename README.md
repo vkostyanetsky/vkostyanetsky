@@ -8,7 +8,7 @@ I also secretly have a passion for cycling and video games.
 
 ## Check out my pet projects
 
-⏰ **Everyday Tools**
+⏰ **Everyday Helpers**
 
 - [Organizer](https://github.com/vkostyanetsky/Organizer) — a CLI tool to manage my tasks and duties
 - [FoodDiary](https://github.com/vkostyanetsky/FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
