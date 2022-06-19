@@ -16,19 +16,19 @@ I also secretly have a passion for cycling and video games.
 - [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — a CLI tool to backup a list of files and directories
 - [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — a CLI tool to start and stop lists of Windows services
 
-⚒️ **Specific Projects**
+⚒️ **Specific Tools**
 
 - [UAE Currency Rates Crawler](https://github.com/vkostyanetsky/UAECurrencyRatesCrawler) — several apps to crawl currency exchange rates on the Central Bank of the United Arab Emirates
 
 💬 **Blogging**
 
 - [Blog Builder](https://github.com/vkostyanetsky/BlogBuilder) — the application I use to build my blogs (I have two of them — first in Russian, second in English)
-- [Blog Engine Vue](https://github.com/vkostyanetsky/BlogEngineVue) — the old engine I use for my blogs.
+- [Blog Engine Vue](https://github.com/vkostyanetsky/BlogEngineVue) — the old engine I use for my blogs
 
 🏢 **1C:Enterprise**
 
+- [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) — a tool to easily manage settings of audit log mechanic in a 1C:Enterprise infobase
+- [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) — a tool to calculate size of the data stored in an 1C:Enterprise infobase
 - [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) — scripts intended to maintain 1C:Enterprise infobases
 - [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) — scripts I frequently use to manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
-- [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) — a tool to calculate size of the data stored in an 1C:Enterprise infobase
-- [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) — a tool to easily manage settings of audit log mechanic in a 1C:Enterprise infobase
 - [Is Empty or Value Is Filled](https://github.com/vkostyanetsky/IsEmptyOrValueIsFilled) — a tool to compare productivty of two ways to find is a value empty or not
