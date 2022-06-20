@@ -13,7 +13,7 @@ I also secretly have a passion for cycling and video games.
 - [Organizer](https://github.com/vkostyanetsky/Organizer) — a CLI tool to manage my tasks and duties
 - [FoodDiary](https://github.com/vkostyanetsky/FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
 - [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — a CLI tool to backup a list of files and directories
-- [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — a CLI tool to start and stop lists of Windows services
+- [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — a CLI tool to start and stop Windows services
 - [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) — a CLI tool to convert AIMP playlists to the M3U8 format
 
 ⚒️ **Specific Tools**
