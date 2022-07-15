@@ -10,7 +10,7 @@ I also secretly have a passion for cycling and video games.
 
 ⏰ **Everyday Helpers**
 
-- [Text Organizer](https://github.com/vkostyanetsky/Text Organizer) — a CLI tool to manage my tasks and duties
+- [Text Organizer](https://github.com/vkostyanetsky/TextOrganizer) — a CLI tool to manage my tasks and duties
 - [Food Diary](https://github.com/vkostyanetsky/FoodDiary) — a CLI tool to count calories, proteins, fats & carbohydrates
 - [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — a CLI tool to backup a list of files and directories
 - [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — a CLI tool to start and stop Windows services
