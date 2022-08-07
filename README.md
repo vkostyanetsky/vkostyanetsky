@@ -28,6 +28,7 @@ I also secretly have a passion for cycling and video games.
 
 🏢 **1C:Enterprise**
 
+- [RFQ](https://github.com/vkostyanetsky/RFQ) — an example of an external interface for 1C:Enterprise
 - [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) — scripts to maintain 1C:Enterprise infobases
 - [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) — a tool to calculate size of the data stored in an 1C:Enterprise infobase
 - [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) — a tool to easily manage settings of audit log subsystem in a 1C:Enterprise infobase
