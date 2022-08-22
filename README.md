@@ -33,4 +33,4 @@ I also secretly have a passion for cycling and video games.
 - [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) — a tool to calculate size of the data stored in an 1C:Enterprise infobase
 - [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) — a tool to easily manage settings of audit log subsystem in a 1C:Enterprise infobase
 - [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) — scripts o manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
-- [Is Empty or Value Is Filled](https://github.com/vkostyanetsky/IsEmptyOrValueIsFilled) — a tool to compare productivty of two ways to find out is a value empty or not
+- [Empty Benchmark](https://github.com/vkostyanetsky/EmptyBenchmark) — a tool to compare productivty of two ways to find out is a value empty or not
