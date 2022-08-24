@@ -10,12 +10,12 @@ I also secretly have a passion for cycling and video games.
 
 ⏰ **Everyday Helpers**
 
-- [Text Organizer](https://github.com/vkostyanetsky/TextOrganizer) — a CLI tool to manage my tasks and duties
-- [Foodlog](https://github.com/vkostyanetsky/Foodlog) — a CLI tool to count calories, proteins, fats & carbohydrates
-- [Fastimer](https://github.com/vkostyanetsky/Fastimer) — a CLI tool to manage fasting zones
-- [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — a CLI tool to backup a list of files and directories
-- [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — a CLI tool to start and stop Windows services
-- [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) — a CLI tool to convert AIMP playlists to the M3U8 format
+- [Text Organizer](https://github.com/vkostyanetsky/TextOrganizer) — CLI tool to manage my tasks and duties
+- [Foodlog](https://github.com/vkostyanetsky/Foodlog) — CLI tool to count calories, proteins, fats & carbohydrates
+- [Fastimer](https://github.com/vkostyanetsky/Fastimer) — CLI tool to manage fasting zones
+- [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — CLI tool to backup a list of files and directories
+- [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — CLI tool to start and stop Windows services
+- [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) — CLI tool to convert AIMP playlists to the M3U8 format
 
 ⚒️ **Specific Tools**
 
