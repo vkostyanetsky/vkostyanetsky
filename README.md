@@ -10,7 +10,7 @@ I also secretly have a passion for cycling and video games.
 
 ⏰ **Everyday Helpers**
 
-- [Todozer](https://github.com/vkostyanetsky/Todozer — CLI tool to manage my tasks and duties
+- [Todozer](https://github.com/vkostyanetsky/Todozer) — CLI tool to manage my tasks and duties
 - [Foodlog](https://github.com/vkostyanetsky/Foodlog) — CLI tool to count calories, proteins, fats & carbohydrates
 - [Fastimer](https://github.com/vkostyanetsky/Fastimer) — CLI tool to manage fasting zones
 - [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — CLI tool to backup a list of files and directories
