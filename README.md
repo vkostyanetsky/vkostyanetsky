@@ -30,9 +30,12 @@ I also secretly have a passion for cycling and video games.
 
 - [RFQ](https://github.com/vkostyanetsky/RFQ) — an example of an external interface for 1C:Enterprise
 - [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) — scripts to maintain 1C:Enterprise infobases
-- [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) — a tool to calculate size of the data stored in an 1C:Enterprise infobase
-- [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) — a tool to easily manage settings of audit log subsystem in a 1C:Enterprise infobase
-- [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) — scripts o manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
-- [Empty Benchmark](https://github.com/vkostyanetsky/EmptyBenchmark) — a data processor to compare productivty of two ways to find out is a value empty or not
+- [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) — scripts to manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
+
+🚀 **1C:Enterprise Data Processors**
+
+- [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) calculates size of the data stored in an 1C:Enterprise infobase
+- [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) manages settings of audit log subsystem in a 1C:Enterprise infobase
+- [Empty Benchmark](https://github.com/vkostyanetsky/EmptyBenchmark) compares productivty of two ways to find out is a value empty or not
 MS
-- [Memory Devourer](https://github.com/vkostyanetsky/MemoryDevourer) — a data processor to consume RAM of 1C:Enterprise server
+- [Memory Devourer](https://github.com/vkostyanetsky/MemoryDevourer) consumes RAM of 1C:Enterprise server
