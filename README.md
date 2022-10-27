@@ -37,5 +37,4 @@ I also secretly have a passion for cycling and video games.
 - [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) calculates size of the data stored in an 1C:Enterprise infobase
 - [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) manages settings of audit log subsystem in a 1C:Enterprise infobase
 - [Empty Benchmark](https://github.com/vkostyanetsky/EmptyBenchmark) compares productivty of two ways to find out is a value empty or not
-MS
 - [Memory Devourer](https://github.com/vkostyanetsky/MemoryDevourer) consumes RAM of 1C:Enterprise server
