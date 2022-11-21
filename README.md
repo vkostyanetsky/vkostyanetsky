@@ -38,3 +38,4 @@ I also secretly have a passion for cycling and video games.
 - [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) manages settings of audit log subsystem in a 1C:Enterprise infobase
 - [Empty Benchmark](https://github.com/vkostyanetsky/EmptyBenchmark) compares productivty of two ways to find out is a value empty or not
 - [Memory Devourer](https://github.com/vkostyanetsky/MemoryDevourer) consumes RAM of 1C:Enterprise server
+- [IsEmpty() or ValueIsFilled()?](https://github.com/vkostyanetsky/IsEmptyOrValueIsFilled) checks which way to check for an empty value is the fastest one
