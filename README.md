@@ -8,18 +8,16 @@ I also secretly have a passion for cycling and video games.
 
 ## Check out my pet projects
 
-⏰ **Everyday Helpers**
+⚒️ **CLI Tools**
 
-- [Todozer](https://github.com/vkostyanetsky/Todozer) — CLI tool to manage my tasks and duties
-- [Foodlog](https://github.com/vkostyanetsky/Foodlog) — CLI tool to count calories, proteins, fats & carbohydrates
-- [Fastimer](https://github.com/vkostyanetsky/Fastimer) — CLI tool to manage fasting zones
-- [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) — CLI tool to backup a list of files and directories
-- [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) — CLI tool to start and stop Windows services
-- [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) — CLI tool to convert AIMP playlists to the M3U8 format
-
-⚒️ **Specific Tools**
-
-- [UAE Exchange Rates](https://github.com/vkostyanetsky/UAECBExchangeRates) — a few scripts to crawl currency exchange rates on the Central Bank of the United Arab Emirates
+- [Todozer](https://github.com/vkostyanetsky/Todozer) manages my tasks and duties
+- [Foodlog](https://github.com/vkostyanetsky/Foodlog) counts calories, proteins, fats & carbohydrates
+- [Zipper](https://github.com/vkostyanetsky/Foodlog) archives a directory to another one
+- [Fastimer](https://github.com/vkostyanetsky/Fastimer) manages fasting zones
+- [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) backups a list of files and directories
+- [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) starts and stops Windows services
+- [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) converts AIMP playlists to the M3U8 format
+- [UAE Exchange Rates](https://github.com/vkostyanetsky/UAECBExchangeRates) crawls currency exchange rates on the Central Bank of the United Arab Emirates
 
 💬 **Blogging**
 
