@@ -12,7 +12,7 @@ I also secretly have a passion for cycling and video games.
 
 - [Todozer](https://github.com/vkostyanetsky/Todozer) manages my tasks and duties
 - [Foodlog](https://github.com/vkostyanetsky/Foodlog) counts calories, proteins, fats & carbohydrates
-- [Zipper](https://github.com/vkostyanetsky/Foodlog) archives a directory to another one
+- [Zipper](https://github.com/vkostyanetsky/Zipper) archives a directory to another one
 - [Fastimer](https://github.com/vkostyanetsky/Fastimer) manages fasting zones
 - [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) backups a list of files and directories
 - [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) starts and stops Windows services
