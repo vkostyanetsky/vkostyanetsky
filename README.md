@@ -26,9 +26,9 @@ I also secretly have a passion for cycling and video games.
 
 🏢 **1C:Enterprise**
 
-- [RFQ](https://github.com/vkostyanetsky/RFQ) — an example of an external interface for 1C:Enterprise
-- [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) — scripts to maintain 1C:Enterprise infobases
-- [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) — scripts to manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
+- [RFQ](https://github.com/vkostyanetsky/RFQ) is an example of an external interface for 1C:Enterprise
+- [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) to maintain 1C:Enterprise infobases
+- [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) to manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
 
 🚀 **1C:Enterprise Data Processors**
 
