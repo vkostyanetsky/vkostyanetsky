@@ -27,7 +27,7 @@ I also secretly have a passion for cycling and video games.
 🏢 **1C:Enterprise**
 
 - [RFQ](https://github.com/vkostyanetsky/RFQ) is an example of an external interface for 1C:Enterprise
-- [Outgoing Requests Limiter](https://github.com/vkostyanetsky/OutgoingRequestsLimiter] shows a way to limit outgoing requests per second
+- [Outgoing Requests Limiter](https://github.com/vkostyanetsky/OutgoingRequestsLimiter) shows a way to limit outgoing requests per second
 - [Scripts for 1C](https://github.com/vkostyanetsky/ScriptsFor1C) to maintain 1C:Enterprise infobases
 - [Scripts for MSSQL Server](https://github.com/vkostyanetsky/ScriptsForMSSQLServer) to manage 1C:Enterprise infobases which use the MSSQL Server as DBMS
 
