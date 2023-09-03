@@ -4,7 +4,7 @@ I'm Vlad — a business software developer specializing in 1C:Enterprise (I'm a 
 
 Currently, I'm working on [FirstBIT ERP](https://firstbit.ae/). It is a company management system (sales, purchasing, production, human resources etc.) designed for the United Arab Emirates.
 
-I also secretly have a passion for cycling and video games.
+Have a passion for walking and video games.
 
 ## Check out my pet projects
 
