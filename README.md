@@ -21,10 +21,7 @@ Have a passion for walking and video games.
 - [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) starts and stops Windows services
 - [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) converts AIMP playlists to the M3U8 format
 - [UAE Exchange Rates](https://github.com/vkostyanetsky/UAECBExchangeRates) crawls currency exchange rates on the Central Bank of the United Arab Emirates
-
-Archive:
-
-- [Fastimer](https://github.com/vkostyanetsky/Fastimer) manages fasting zones
+- [Fastimer](https://github.com/vkostyanetsky/Fastimer) (archive) manages fasting zones
 
 💬 **Blogging**
 
