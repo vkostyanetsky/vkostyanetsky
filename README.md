@@ -10,7 +10,7 @@ Have a passion for walking and video games.
 
 🪨 **Obsidian Plugins**
 
-- [ObsidianFastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
+- [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 
 ⚒️ **CLI Tools**
 
