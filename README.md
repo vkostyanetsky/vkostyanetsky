@@ -11,7 +11,7 @@ Have a passion for walking and video games.
 🪨 **Obsidian Plugins**
 
 - [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
-- [Foodairy](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
+- [Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
 
 ⚒️ **CLI Tools**
 
