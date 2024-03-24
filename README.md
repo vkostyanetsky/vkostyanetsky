@@ -12,6 +12,7 @@ Have a passion for walking and video games.
 
 - [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
+- [Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 
 ⚒️ **CLI Tools**
 
