@@ -10,9 +10,9 @@ Have a passion for walking and video games.
 
 🪨 **Obsidian Plugins**
 
-- [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
-- [Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
-- [Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
+- [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
+- [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
+- [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 
 ⚒️ **CLI Tools**
 
