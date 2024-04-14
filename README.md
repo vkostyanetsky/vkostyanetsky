@@ -21,13 +21,10 @@ Have a passion for walking and video games.
 - [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) starts and stops Windows services
 - [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) converts AIMP playlists to the M3U8 format
 - [UAE Exchange Rates](https://github.com/vkostyanetsky/UAECBExchangeRates) crawls currency exchange rates on the Central Bank of the United Arab Emirates
+- [Bloget](https://github.com/vkostyanetsky/Bloget) builds my blogs (there are two of them — [first](https://kostyanetsky.ru) in Russian, [second](https://kostyanetsky.me) in English)
 - 📦 [Todozer](https://github.com/vkostyanetsky/Todozer) manages tasks and duties
 - 📦 [Foodlog](https://github.com/vkostyanetsky/Foodlog) counts calories, proteins, fats & carbohydrates
 - 📦 [Fastimer](https://github.com/vkostyanetsky/Fastimer) manages fasting zones
-
-💬 **Blogging**
-
-- [Bloget](https://github.com/vkostyanetsky/Bloget) builds my blogs (there are two of them — [first](https://kostyanetsky.ru) in Russian, [second](https://kostyanetsky.me) in English)
 - 📦 [Blog Engine on Vue](https://github.com/vkostyanetsky/BlogEngineOnVue) built my blog in the past (backend on PHP, frontend on Vue.js)
 
 🏢 **1C:Enterprise**
