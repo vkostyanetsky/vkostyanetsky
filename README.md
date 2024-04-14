@@ -16,7 +16,7 @@ Have a passion for walking and video games.
 
 ⚒️ **CLI Tools**
 
-- [Bloget](https://github.com/vkostyanetsky/Bloget) builds my blogs (there are two of them — [first](https://kostyanetsky.ru) in Russian, [second](https://kostyanetsky.me) in English)
+- [Bloget](https://github.com/vkostyanetsky/Bloget) builds my blogs ([Russian](https://kostyanetsky.ru) one and [English](https://kostyanetsky.me) one)
 - [Zipper](https://github.com/vkostyanetsky/Zipper) archives a directory to another one
 - [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) backups a list of files and directories
 - [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) starts and stops Windows services
