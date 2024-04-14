@@ -28,7 +28,7 @@ Have a passion for walking and video games.
 💬 **Blogging**
 
 - [Bloget](https://github.com/vkostyanetsky/Bloget) builds my blogs (there are two of them — [first](https://kostyanetsky.ru) in Russian, [second](https://kostyanetsky.me) in English)
-- [Blog Engine on Vue](https://github.com/vkostyanetsky/BlogEngineOnVue) built my blog in the past (backend on PHP, frontend on Vue.js)
+- 📦 [Blog Engine on Vue](https://github.com/vkostyanetsky/BlogEngineOnVue) built my blog in the past (backend on PHP, frontend on Vue.js)
 
 🏢 **1C:Enterprise**
 
