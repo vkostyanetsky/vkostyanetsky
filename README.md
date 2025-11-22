@@ -8,11 +8,11 @@ Have a passion for walking and video games.
 
 ## Check out my pet projects
 
-🪨 **Obsidian Plugins**
+🪨 **Obsidian Showcase**
 
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
-    - [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) does the same, but uses Obsidian Bases
+- [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) does the same, but uses Obsidian Bases
 - [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 
 ⚒️ **CLI Tools**
