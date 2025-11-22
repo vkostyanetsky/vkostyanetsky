@@ -2,7 +2,7 @@
 
 I'm Vlad — a business software developer specializing in 1C:Enterprise (I'm a certified 1C:Enterprise expert, to be certain) and experimenting with everything else. A lot.
 
-Currently, I'm working on [FirstBIT ERP](https://firstbit.ae/). It is a company management system (sales, purchasing, production, human resources etc.) designed for the United Arab Emirates.
+Currently, I'm working on [FirstBIT ERP](https://firstbit.ae). It is a company management system (sales, purchasing, production, human resources etc.) designed for the United Arab Emirates.
 
 Have a passion for walking and video games.
 
@@ -12,6 +12,7 @@ Have a passion for walking and video games.
 
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
+    - [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) does the same, but uses Obsidian Bases
 - [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 
 ⚒️ **CLI Tools**
