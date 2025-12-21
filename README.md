@@ -18,12 +18,12 @@ Have a passion for walking and video games.
 ⚒️ **CLI Tools**
 
 - [Bloget](https://github.com/vkostyanetsky/Bloget) builds my blogs ([Russian](https://kostyanetsky.ru) one and [English](https://kostyanetsky.me) one)
-- [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) backups a list of files and directories
 - [AIMP Playlists Convertor](https://github.com/vkostyanetsky/AIMPPlaylistsConvertor) converts AIMP playlists to the M3U8 format
 - 📦 [Zipper](https://github.com/vkostyanetsky/Zipper) archives a directory to another one
 - 📦 [Todozer](https://github.com/vkostyanetsky/Todozer) manages tasks and duties
 - 📦 [Foodlog](https://github.com/vkostyanetsky/Foodlog) counts calories, proteins, fats & carbohydrates
 - 📦 [Fastimer](https://github.com/vkostyanetsky/Fastimer) manages fasting zones
+- 📦 [RClone Abuser](https://github.com/vkostyanetsky/RCloneAbuser) backups a list of files and directories
 - 📦 [Service Launcher](https://github.com/vkostyanetsky/ServiceLauncher) starts and stops Windows services
 - 📦 [UAE Exchange Rates](https://github.com/vkostyanetsky/UAECBExchangeRates) crawls currency exchange rates on the Central Bank of the United Arab Emirates
 - 📦 [Blog Engine on Vue](https://github.com/vkostyanetsky/BlogEngineOnVue) built my blog in the past (backend on PHP, frontend on Vue.js)
