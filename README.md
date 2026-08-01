@@ -14,7 +14,7 @@ Have a passion for walking and video games.
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
 - [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) does the same, but uses Obsidian Bases
-- [Obsidian Daily Notes Navigator](https://github.com/vkostyanetsky/ObsidianDailyNotesNavigator) makes it easier to navigate between daily notes
+- [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it easier to navigate between daily notes
 
 ⚒️ **CLI Tools**
 
