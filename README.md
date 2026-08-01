@@ -10,9 +10,9 @@ Have a passion for walking and video games.
 
 🪨 **Obsidian Showcase**
 
+- [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
-- [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 - [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) does the same, but uses Obsidian Bases
 - [Obsidian Daily Notes Navigator (Bases)](https://github.com/vkostyanetsky/ObsidianDailyNotesNavigator) makes it easier to navigate between daily notes
 
