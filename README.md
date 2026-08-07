@@ -18,7 +18,7 @@ Have a passion for walking, cycling, video games, and 3D modelling.
 🪨 **Obsidian Plugins For Personal Usage**
 
 - [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
-- [Obsidian Yoin Toolkit](https://github.com/vkostyanetsky/ObsidianYoinToolkit) makes me working on one particular personal project easier
+- [Obsidian Yoin Toolkit](https://github.com/vkostyanetsky/ObsidianYoinToolkit) makes me working on one particular project easier
 
 🪨 **Obsidian Vault Templates**
 
