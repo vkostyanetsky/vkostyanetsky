@@ -10,8 +10,8 @@ Have a passion for walking and video games.
 
 🪨 **Obsidian Plugins In The Community Catalog**
 
-- [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 - [Obsidian Property Organizer](https://github.com/vkostyanetsky/ObsidianPropertyOrganizer) sorts note properties
+- [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
 
