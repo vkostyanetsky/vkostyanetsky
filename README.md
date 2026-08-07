@@ -8,14 +8,21 @@ Have a passion for walking and video games.
 
 ## Check out my pet projects
 
-🪨 **Obsidian Showcase**
+🪨 **Obsidian Plugins In The Community Catalog**
 
 - [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
+- [Obsidian Property Organizer](https://github.com/vkostyanetsky/ObsidianPropertyOrganizer) sorts note properties
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
-- [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) does the same, but uses Obsidian Bases
-- [Obsidian Property Organizer](https://github.com/vkostyanetsky/ObsidianPropertyOrganizer) sorts note properties
-- [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it easier to navigate between daily notes
+
+🪨 **Obsidian Plugins For Personal Usage**
+
+- [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
+- [Obsidian Yoin Toolkit](https://github.com/vkostyanetsky/ObsidianYoinToolkit) makes me working on one particular personal project easier
+
+🪨 **Obsidian Vault Templates**
+
+- [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) helps with nutrition via Obsidian Bases
 
 ⚒️ **CLI Tools**
 
