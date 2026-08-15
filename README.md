@@ -15,14 +15,11 @@ Have a passion for walking, cycling, video games, and 3D modelling.
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
 
-🪨 **Obsidian Plugins For Personal Usage**
+In addition, there are:
 
-- [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
 - [Obsidian Toolbox](https://github.com/vkostyanetsky/ObsidianToolbox) makes working on some projects easier for me
-
-🪨 **Obsidian Vault Templates**
-
-- [Obsidian Foodiary (Bases)](https://github.com/vkostyanetsky/ObsidianFoodiaryBases) helps with nutrition via Obsidian Bases
+- [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates) contains examples of how to solve various tasks using Obsidian
+- [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
 
 ⚒️ **CLI Tools**
 
