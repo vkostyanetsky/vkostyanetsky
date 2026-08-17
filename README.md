@@ -48,6 +48,6 @@ In addition, there are:
 - [Empty Benchmark](https://github.com/vkostyanetsky/EmptyBenchmark) compares productivty of two ways to find out is a value empty or not
 - [Memory Devourer](https://github.com/vkostyanetsky/MemoryDevourer) consumes RAM of 1C:Enterprise server
 
-🔨 **Other**
+💎 **Other**
 
 - [MikuCodexPet](https://github.com/vkostyanetsky/MikuCodexPet) built from the original pixel-art Hatsune Miku sprites of MikuPet
