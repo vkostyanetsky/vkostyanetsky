@@ -21,6 +21,10 @@ In addition, there are:
 - [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates) contains examples of how to solve various tasks using Obsidian
 - [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
 
+🔷 *VS Code Plugins*
+
+- [Open File Lines](https://github.com/vkostyanetsky/vscode-open-file-lines) opens files at specific line ranges
+
 ⚒️ **CLI Tools**
 
 - [Bloget](https://github.com/vkostyanetsky/Bloget) builds my blogs ([Russian](https://kostyanetsky.ru) one and [English](https://kostyanetsky.me) one)
