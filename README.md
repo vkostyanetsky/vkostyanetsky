@@ -8,7 +8,7 @@ Have a passion for walking, cycling, video games, and 3D modelling.
 
 ## Check out my projects
 
-🪨 **Obsidian Plugins In The Community Catalog**
+🪨 **Obsidian Plugins**
 
 - [Obsidian Property Organizer](https://github.com/vkostyanetsky/ObsidianPropertyOrganizer) sorts note properties
 - [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
@@ -21,7 +21,7 @@ In addition, there are:
 - [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates) contains examples of how to solve various tasks using Obsidian
 - [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
 
-🔷 *VS Code Plugins*
+🔷 **VS Code Plugins**
 
 - [Open File Lines](https://github.com/vkostyanetsky/vscode-open-file-lines) opens files at specific line ranges
 
