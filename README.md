@@ -20,7 +20,7 @@ I tend to scratch my own itch and turn the result into a project 😅
 Personal ones:
 
 - [My Dailies](https://github.com/vkostyanetsky/ObsidianMyDailies) makes my daily routine easier
-- [My Images](https://github.com/vkostyanetsky/ObsidianMyImages) simplifies work with image collections
+- [My Images](https://github.com/vkostyanetsky/ObsidianMyImages) simplifies working with image collections
 
 In addition, there is [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates), which contains examples of how to solve various tasks using Obsidian.
 
