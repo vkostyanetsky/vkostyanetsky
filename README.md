@@ -17,10 +17,12 @@ I tend to scratch my own itch and turn the result into a project 😅
 - [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
 - [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
 
-In addition, there are:
+Personal ones:
 
 - [My Dailies](https://github.com/vkostyanetsky/ObsidianMyDailies) makes my daily routine easier
-- [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates) contains examples of how to solve various tasks using Obsidian
+- [My Images](https://github.com/vkostyanetsky/ObsidianMyImages) simplifies work with image collections
+
+In addition, there is [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates), which contains examples of how to solve various tasks using Obsidian.
 
 🔷 **VS Code Plugins**
 
