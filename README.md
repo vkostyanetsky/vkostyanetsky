@@ -21,7 +21,6 @@ In addition, there are:
 
 - [My Dailies](https://github.com/vkostyanetsky/ObsidianMyDailies) makes my daily routine easier
 - [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates) contains examples of how to solve various tasks using Obsidian
-- [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
 
 🔷 **VS Code Plugins**
 
