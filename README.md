@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I'm Vlad — a business software developer specializing in 1C:Enterprise (I'm a certified 1C:Enterprise expert, to be certain) and experimenting with everything else. A lot.
+I'm Vlad — a business software developer specializing in 1C:Enterprise (I'm a certified 1C:Enterprise expert, to be certain) and I like to get my hands dirty with pretty much everything else.
 
 Currently, I'm working on [FirstBIT ERP](https://firstbit.ae). It is a company management system (sales, purchasing, production, human resources etc.) designed for the United Arab Emirates.
 
-Have a passion for walking, cycling, video games, and 3D modelling.
+When I'm not coding, I like to blow off steam by walking, cycling, playing video games, or doing some 3D modelling.
 
 ## Check out my projects
+
+I tend to scratch my own itch and turn the result into a project 😅
 
 🪨 **Obsidian Plugins**
 
@@ -17,7 +19,7 @@ Have a passion for walking, cycling, video games, and 3D modelling.
 
 In addition, there are:
 
-- [Obsidian Toolbox](https://github.com/vkostyanetsky/ObsidianToolbox) makes working on some projects easier for me
+- [My Dailies](https://github.com/vkostyanetsky/ObsidianMyDailies) makes my daily routine easier
 - [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates) contains examples of how to solve various tasks using Obsidian
 - [Obsidian Daily Note Navigator](https://github.com/vkostyanetsky/ObsidianDailyNoteNavigator) makes it faster to navigate between daily notes
 
