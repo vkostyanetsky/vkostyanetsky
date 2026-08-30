@@ -12,10 +12,10 @@ I tend to scratch my own itch and turn the result into a project 😅
 
 🪨 **Obsidian Plugins**
 
-- [Obsidian Property Organizer](https://github.com/vkostyanetsky/ObsidianPropertyOrganizer) sorts note properties
-- [Obsidian Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
-- [Obsidian Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
-- [Obsidian Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
+- [Property Organizer](https://github.com/vkostyanetsky/ObsidianPropertyOrganizer) sorts note properties
+- [Timesheet](https://github.com/vkostyanetsky/ObsidianTimesheet) generates working logs
+- [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer) manages fasting zones
+- [Foodiary](https://github.com/vkostyanetsky/ObsidianFoodiary) helps with nutrition
 
 Personal ones:
 
