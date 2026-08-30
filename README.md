@@ -4,7 +4,7 @@ I'm Vlad — a business software developer specializing in 1C:Enterprise (a cert
 
 Currently I'm working on [FirstBIT ERP](https://firstbit.ae), a company management system (sales, purchasing, production, human resources, etc.) designed for the United Arab Emirates.
 
-When I'm not coding, I blow off steam by walking, cycling, playing video games, or doing some 3D modelling.
+When I'm not coding, I blow off steam by walking, cycling, playing video games, or doing some 3D modeling.
 
 ## Check out my projects
 
@@ -22,7 +22,7 @@ Personal ones:
 - [My Dailies](https://github.com/vkostyanetsky/ObsidianMyDailies) makes my daily routine easier
 - [My Images](https://github.com/vkostyanetsky/ObsidianMyImages) simplifies working with image collections
 
-There is also [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates) — a bunch of examples of how to solve various tasks in Obsidian.
+There's also [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates), a repo with examples of how to pull off various things inside an Obsidian vault.
 
 🔷 **VS Code Extensions**
 
