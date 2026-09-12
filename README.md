@@ -52,8 +52,7 @@ There's also [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTempl
 
 - [Audit Log Settings](https://github.com/vkostyanetsky/AuditLogSettings) manages audit log subsystem settings in a 1C:Enterprise infobase
 - [Data Size Console](https://github.com/vkostyanetsky/DataSizeConsole) calculates the size of the data stored in a 1C:Enterprise infobase
-- [Empty Benchmark](https://github.com/vkostyanetsky/EmptyBenchmark) compares the performance of two ways to check whether a value is empty
-- [Memory Devourer](https://github.com/vkostyanetsky/MemoryDevourer) eats up the RAM of a 1C:Enterprise server
+- [1C One Shots](https://github.com/vkostyanetsky/1COneShots) containts other small data processors for 1C:Enterprise 8.3
 
 🙂 **Fun**
 
