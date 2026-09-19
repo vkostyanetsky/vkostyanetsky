@@ -21,6 +21,7 @@ Personal ones:
 
 - [My Dailies](https://github.com/vkostyanetsky/ObsidianMyDailies) makes my daily routine easier
 - [My Images](https://github.com/vkostyanetsky/ObsidianMyImages) simplifies working with image collections
+- [My Inbox](https://github.com/vkostyanetsky/ObsidianMyInbox) keeps my inbox in sight
 
 There's also [Obsidian Templates](https://github.com/vkostyanetsky/ObsidianTemplates), a repo with examples of how to pull off various things inside an Obsidian vault.
 
